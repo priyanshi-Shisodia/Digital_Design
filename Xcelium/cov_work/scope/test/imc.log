@@ -1,0 +1,3 @@
+IMC(64): 15.20-s069: (c) Copyright 1995-2019 Cadence Design Systems Inc - Coverage engine version: 15.20-s069
+imc: *E,CNTRDDR: Cannot read directory cov_work/scope/icc_7b3481f0_00000000.ucd. Check if the directory has read permission, and rerun the command	   
+imc: *E,INVDM: Valid model file not found for run directory cov_work/scope/icc_7b3481f0_00000000.ucd. Specify a valid run directory with correct ucm, ucd files and rerun the command.
