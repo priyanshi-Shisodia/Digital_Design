@@ -1,1 +1,1 @@
-# Digital_Design flow usinh Cadence Tools
+# Digital_Design flow using Cadence Tools
